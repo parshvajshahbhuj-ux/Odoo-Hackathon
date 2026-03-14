@@ -1,1 +1,0 @@
-print("CoreInventory Backend Running")
